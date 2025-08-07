@@ -1,0 +1,28 @@
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+img {
+    height: 200PX;
+    width: 200PX;
+}
+
+h2 {
+    font-weight: normal;
+}
