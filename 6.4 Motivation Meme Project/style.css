@@ -1,0 +1,20 @@
+img {
+    border: 5px solid white;
+    width: 50%;
+    
+   
+    
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+.motivation {
+    text-align: center;
+    margin-top: 10%;
+}
